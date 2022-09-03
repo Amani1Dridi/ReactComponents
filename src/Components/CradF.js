@@ -6,7 +6,7 @@ const CardF=()=>{
 
 
     return (
-      <><img src={process.env.PUBLIC_URL + '/me.jpg'} alt="test"/> :<p>loading</p></>
+      <><img src={process.env.PUBLIC_URL + '/me.jpg'} alt="test"/></>
      
      );
 }
